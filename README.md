@@ -6,8 +6,9 @@ The above repository contains the data and documentation necessary to begin our 
 - [TCNJ Research](https://news.tcnj.edu/2023/05/01/computer-science-asl-project/)
 
 ## Technical Articles for additional context / code examples
-- [TensorFlow Documentation](https://www.tensorflow.org/tutorials/images/cnn)
 - [Train-test split with sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
+- [TensorFlow Documentation](https://www.tensorflow.org/tutorials/images/cnn)
+- [TensorFlow Keras Documentation](https://www.tensorflow.org/guide/keras)
 
 ## Other recommended resources from original project
 ### Data Source  
@@ -15,6 +16,6 @@ The above repository contains the data and documentation necessary to begin our 
 
 ### Tools & Resources  
 - [Chatgpt - outline of project/analysis plan](https://chatgpt.com/share/67fdd7bc-3414-8004-b10d-9ff1e03df96c  )
-- TensorFlow + Keras Documentation  
+- TensorFlow + Keras Documentation (as seen above)
 - Google Colab environment  
 - [Project TIER Protocol](https://www.projecttier.org/tier-protocol/protocol-4-0)
