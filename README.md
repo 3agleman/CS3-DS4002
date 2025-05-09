@@ -1,5 +1,5 @@
 # *Case Study - Part 3 - DS 4002*
-The above repository contains the data and documentation necessary to begin our project on ASL digit sign classification. Below are links to the context articles provided in the hard copy folder, technical articles detailing some packages used, and the tools and resources we used when initially completing this project.
+The above repository contains the data and documentation necessary to begin this project on ASL digit sign classification. Below are links to the context articles provided in the hard copy folder, technical articles detailing some packages used, and the tools and resources we used when initially completing this project.
 
 ## Article Links
 - [Cornell AI Ring Translator](https://news.cornell.edu/stories/2025/03/ai-ring-tracks-spelled-words-american-sign-language)
