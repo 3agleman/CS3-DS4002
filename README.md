@@ -9,7 +9,7 @@ The above repository contains the data and documentation necessary to begin our 
 - [TensorFlow Documentation](https://www.tensorflow.org/tutorials/images/cnn)
 - [Train-test split with sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.train_test_split.html)
 
-## Other citations from original project
+## Other recommended resources from original project
 ### Data Source  
 - https://github.com/ardamavi/Sign-Language-Digits-Dataset
 
