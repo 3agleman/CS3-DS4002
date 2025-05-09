@@ -57,6 +57,8 @@ library(data.table)
 data.frame(recommended_c, sentiments_c,
            row.names = c("Positive","Negative","Neutral"))
 
+# Recommend downloading your data here for use in the python segments
+
 # T-tests
 
 # Split data into recommended and not recommended games to test hypotheses
