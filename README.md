@@ -1,9 +1,11 @@
 # *Case Study - Part 3 - DS 4002*
 
 ## Article Links
-- Steam Reviews article: Ed Smith, 5/6/25, PCGamesN [Link](https://www.pcgamesn.com/stellaris/steam-reviews-dlc)
-- Sentiment analysis in R: finnstats, 5/16/21, RBloggers [Link](https://www.r-bloggers.com/2021/05/sentiment-analysis-in-r-3/)
-- 
+- [Cornell AI Ring Translator](https://news.cornell.edu/stories/2025/03/ai-ring-tracks-spelled-words-american-sign-language)
+- [TCNJ Research](https://news.tcnj.edu/2023/05/01/computer-science-asl-project/)
+
+## Technical Articles for additional context
+- [TensorFlow Documentation](https://www.tensorflow.org/tutorials/images/cnn)
 
 ## Other citations from original project
 ### Data Source  
