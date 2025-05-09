@@ -14,7 +14,7 @@ The above repository contains the data and documentation necessary to begin our 
 - https://github.com/ardamavi/Sign-Language-Digits-Dataset
 
 ### Tools & Resources  
-- [Chatgpt - outline of project](https://chatgpt.com/share/67fdd7bc-3414-8004-b10d-9ff1e03df96c  )
+- [Chatgpt - outline of project/analysis plan](https://chatgpt.com/share/67fdd7bc-3414-8004-b10d-9ff1e03df96c  )
 - TensorFlow + Keras Documentation  
 - Google Colab environment  
 - [Project TIER Protocol](https://www.projecttier.org/tier-protocol/protocol-4-0)
