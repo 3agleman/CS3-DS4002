@@ -6,11 +6,11 @@
 - 
 
 ## Other citations from original project
-### **Sentiment Analysis**
-- Bobbitt, “How to Select Random Samples in R (With Examples),” *Statology*, Oct. 22, 2020. [Link](https://www.statology.org/random-sample-in-r/)
-- ben_aaron, “Removing characters from string in R,” *Stack Overflow*, Nov. 20, 2014. [Link](https://stackoverflow.com/questions/27044727/removing-characters-from-string-in-r)
-- M. Jockers, “Introduction to the Syuzhet Package,” *R-project.org*, Dec. 13, 2017. [Link](https://cran.r-project.org/web/packages/syuzhet/vignettes/syuzhet-vignette.html)
+### Data Source  
+- https://github.com/ardamavi/Sign-Language-Digits-Dataset
 
-### **Statistical Methods**
-- Student’s t-test: [Wikipedia](https://en.wikipedia.org/wiki/Student%27s_t-test)
-- Independent Two-Sample t-test: [Scipy Docs](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.ttest_ind.html)
+### Tools & Resources  
+- [Chatgpt](https://chatgpt.com/share/67fdd7bc-3414-8004-b10d-9ff1e03df96c  )
+- TensorFlow + Keras Documentation  
+- Google Colab environment  
+- [Project TIER Protocol](https://www.projecttier.org/tier-protocol/protocol-4-0)
